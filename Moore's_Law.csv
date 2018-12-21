@@ -1,4 +1,4 @@
-Processor,Transistor count,Date of introduction,Designer,Process,Area,Transistors per Square Millimeter
+Processor,Transistors,Year,Designer,Process,Area(mm2),Transistors/mm2
 MOS Technology 6502,"3,510",1975,MOS Technology,"8,000 nm",21,167
 RCA 1802,5000,1974,RCA,"5,000 nm",27,185
 Intel 4004,2300,1971,Intel,"10,000 nm",12,192

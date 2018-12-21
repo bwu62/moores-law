@@ -1,5 +1,5 @@
 Processor,Transistors,Year,Designer,Process,Area mm2,Trans./mm2
-MOS Technology 6502,"3,510",1975,MOS Technology,"8,000 nm",21,167
+MOS Technology 6502,"3,510",1975,MOS Tech.,"8,000 nm",21,167
 RCA 1802,5000,1974,RCA,"5,000 nm",27,185
 Intel 4004,2300,1971,Intel,"10,000 nm",12,192
 Intel 8080,4500,1974,Intel,"6,000 nm",20,225
@@ -9,7 +9,7 @@ Intel 8085,6500,1976,Intel,"3,000 nm",20,325
 Motorola 6809,9000,1978,Motorola,"5,000 nm",21,429
 Zilog Z80,8500,1976,Zilog,"4,000 nm",18,472
 ARM 1,"25,000",1985,Acorn,"3,000 nm",50,500
-TMS 1000,8000,1974,Texas Instruments,"8,000 nm",11,727
+TMS 1000,8000,1974,TI,"8,000 nm",11,727
 Intel 8086,29000,1978,Intel,"3,000 nm",33,879
 Intel 8088,29000,1979,Intel,"3,000 nm",33,879
 Intel 80186,55000,1982,Intel,"3,000 nm",60,917
@@ -33,7 +33,7 @@ AMD K5,4300000,1996,AMD,500 nm,251,"17,131"
 Pentium Pro,"5,500,000",1995,Intel,500 nm,307,"17,915"
 ARM 9TDMI,"111,000",1999,Acorn,350 nm,4.8,"23,125"
 Pentium II Klamath,7500000,1997,Intel,350 nm,195,"38,462"
-SA-110,"2,500,000",1995,Acorn/DEC/Apple,350 nm,50,"50,000"
+SA-110,"2,500,000",1995,Acrn/DEC/Apl,350 nm,50,"50,000"
 AMD K6,8800000,1997,AMD,350 nm,162,"54,321"
 Pentium II Deschutes,7500000,1998,Intel,250 nm,113,"66,372"
 Pentium III Katmai,9500000,1999,Intel,250 nm,128,"74,219"
@@ -49,7 +49,7 @@ AMD K8,105900000,2003,AMD,130 nm,193,"548,705"
 Pentium III Tualatin,45000000,2001,Intel,130 nm,81,"555,556"
 ARM Cortex-A9,"26,000,000",2007,ARM,45 nm,31,"838,710"
 Pentium 4 Prescott,112000000,2004,Intel,90 nm,110,"1,018,182"
-Cell,241000000,2006,Sony/IBM/Toshiba,90 nm,221,"1,090,498"
+Cell,241000000,2006,Sny/IBM/Tosh.,90 nm,221,"1,090,498"
 Itanium 2 Madison 6M,410000000,2003,Intel,130 nm,374,"1,096,257"
 Pentium D Smithfield,228000000,2005,Intel,90 nm,206,"1,106,796"
 Pentium 4 Prescott-2M,169000000,2005,Intel,90 nm,143,"1,181,818"
@@ -98,12 +98,12 @@ IBM z13 Stor. Cont.,7100000000,2015,IBM,22 nm,678,"10,471,976"
 POWER9,8000000000,2017,IBM,14 nm,695,"11,510,791"
 72-core Xeon Phi,8000000000,2016,Intel,14 nm,683,"11,713,031"
 10-core Core i7 Broadwell-E,"3,200,000,000",2016,Intel,14 nm,246,"13,008,130"
-Xbox One main SoC,5000000000,2013,Microsoft/AMD,28 nm,363,"13,774,105"
+Xbox One main SoC,5000000000,2013,MS/AMD,28 nm,363,"13,774,105"
 IBM z14 Stor. Cont.,9700000000,2017,IBM,14 nm,696,"13,936,782"
 Core i7 Broadwell-U,"1,900,000,000",2015,Intel,14 nm,133,"14,285,714"
 Core i7 Skylake K,1750000000,2015,Intel,14 nm,122,"14,344,262"
 Xeon Broadwell-E5,"7,200,000,000",2016,Intel,14 nm,456,"15,789,474"
-Xbox One X Main SoC,"7,000,000,000",2017,Microsoft/AMD,16 nm,360,"19,444,444"
+Xbox One X Main SoC,"7,000,000,000",2017,MS/AMD,16 nm,360,"19,444,444"
 A9,"2,000,000,000",2015,Apple,14 nm,96,"20,833,333"
 A9X (dual-core ARM64),"3,000,000,000",2015,Apple,16 nm,143.9,"20,847,811"
 A8,2000000000,2014,Apple,20 nm,89,"22,471,910"
